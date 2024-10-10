@@ -1,0 +1,78 @@
+10 processes
+Using First In First Out
+Time 0 : P01 selected (burst 5)
+Time 1 : P01 selected (burst 4)
+Time 2 : P01 selected (burst 3)
+Time 3 : P01 selected (burst 2)
+Time 4 : P01 selected (burst 1)
+Time 5 : P01 finished
+Time 5 : P04 selected (burst 4)
+Time 6 : P04 selected (burst 3)
+Time 7 : P04 selected (burst 2)
+Time 8 : P04 selected (burst 1)
+Time 9 : P04 finished
+Time 9 : P02 selected (burst 9)
+Time 10 : P02 selected (burst 8)
+Time 11 : P02 selected (burst 7)
+Time 12 : P02 selected (burst 6)
+Time 13 : P02 selected (burst 5)
+Time 14 : P02 selected (burst 4)
+Time 15 : P02 selected (burst 3)
+Time 16 : P02 selected (burst 2)
+Time 17 : P02 selected (burst 1)
+Time 18 : P02 finished
+Time 18 : P03 selected (burst 3)
+Time 19 : P03 selected (burst 2)
+Time 20 : P03 selected (burst 1)
+Time 21 : P03 finished
+Time 21 : P05 selected (burst 8)
+Time 22 : P05 selected (burst 7)
+Time 23 : P05 selected (burst 6)
+Time 24 : P05 selected (burst 5)
+Time 25 : P05 selected (burst 4)
+Time 26 : P05 selected (burst 3)
+Time 27 : P05 selected (burst 2)
+Time 28 : P05 selected (burst 1)
+Time 29 : P05 finished
+Time 29 : P07 selected (burst 5)
+Time 30 : P07 selected (burst 4)
+Time 31 : P07 selected (burst 3)
+Time 32 : P07 selected (burst 2)
+Time 33 : P07 selected (burst 1)
+Time 34 : P07 finished
+Time 34 : P10 selected (burst 2)
+Time 35 : P10 selected (burst 1)
+Time 36 : P10 finished
+Time 36 : P06 selected (burst 4)
+Time 37 : P06 selected (burst 3)
+Time 38 : P06 selected (burst 2)
+Time 39 : P06 selected (burst 1)
+Time 40 : P06 finished
+Time 40 : P08 selected (burst 4)
+Time 41 : P08 selected (burst 3)
+Time 42 : P08 selected (burst 2)
+Time 43 : P08 selected (burst 1)
+Time 44 : P08 finished
+Time 44 : P09 selected (burst 7)
+Time 45 : P09 selected (burst 6)
+Time 46 : P09 selected (burst 5)
+Time 47 : P09 selected (burst 4)
+Time 48 : P09 selected (burst 3)
+Time 49 : P09 selected (burst 2)
+Time 50 : P09 selected (burst 1)
+Time 51 : P09 finished
+Time 51 : Idle
+Time 52 : Idle
+Time 53 : Idle
+Time 54 : Idle
+Finished at time 55
+P01 wait 0 turnaround 5 response 0
+P04 wait 4 turnaround 8 response 4
+P02 wait 4 turnaround 13 response 4
+P03 wait 9 turnaround 12 response 9
+P05 wait 11 turnaround 19 response 11
+P07 wait 17 turnaround 22 response 17
+P10 wait 21 turnaround 23 response 21
+P06 wait 13 turnaround 17 response 13
+P08 wait 15 turnaround 19 response 15
+P09 wait 14 turnaround 21 response 14

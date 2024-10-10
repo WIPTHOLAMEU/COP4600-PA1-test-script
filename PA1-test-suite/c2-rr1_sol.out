@@ -1,0 +1,16 @@
+2 processes
+Using Round-Robin
+Quantum 2
+
+Process P2 started at 0 and finished at 13
+Process P1 started at 6 and finished at 14
+
+Process P2 -- Turnaround time: 13, Waiting time: 4, Response time: 0
+Process P1 -- Turnaround time: 11, Waiting time: 6, Response time: 3
+
+fixed:
+Process P1 -- Turnaround time: 14, Waiting time: 5, Response time: 0
+Process P2 -- Turnaround time: 10, Waiting time: 5, Response time: 1
+
+P1 wait   5 turnaround  10 response   1
+P2 wait   5 turnaround  14 response   0
